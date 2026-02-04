@@ -80,13 +80,10 @@ img:hover {
     }
   }
 
-   @media (min-width: 1200px) {
+   @media (min-width: 900px) {
      .grid {
       width: 100vw;
       height: 100vw;
-     }
-     .circle {
-      width  
      }
   }
 
